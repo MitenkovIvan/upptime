@@ -1,20 +1,20 @@
 [
   {
-    "name": "mitenkov.com (Home Page)",
+    "name": "Home Page",
     "url": "https://mitenkov.com",
     "icon": "https://icons.duckduckgo.com/ip3/mitenkov.com.ico",
-    "slug": "mitenkov-com-home-page",
+    "slug": "home-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 324,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 1727,
+    "timeDay": 1727,
+    "timeWeek": 1727,
+    "timeMonth": 1727,
+    "timeYear": 1727,
     "dailyMinutesDown": {}
   }
 ]
