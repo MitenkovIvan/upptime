@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitenkov.com.ico",
     "slug": "home-page",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 600,
-    "timeDay": 652,
-    "timeWeek": 581,
-    "timeMonth": 574,
-    "timeYear": 600,
+    "uptimeYear": "99.80%",
+    "time": 597,
+    "timeDay": 491,
+    "timeWeek": 576,
+    "timeMonth": 577,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2024-06-25": 91
     }
