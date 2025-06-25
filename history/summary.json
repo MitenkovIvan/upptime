@@ -6,12 +6,12 @@
     "slug": "home-page",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.43%",
     "time": 617,
-    "timeDay": 513,
+    "timeDay": 386,
     "timeWeek": 457,
     "timeMonth": 483,
     "timeYear": 617,
@@ -25,8 +25,7 @@
       "2024-09-23": 467,
       "2024-09-12": 560,
       "2024-09-11": 929,
-      "2024-08-03": 22,
-      "2024-06-25": 91
+      "2024-08-03": 22
     }
   }
 ]
