@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitenkov.com.ico",
     "slug": "home-page",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 603,
-    "timeDay": 426,
-    "timeWeek": 471,
-    "timeMonth": 492,
-    "timeYear": 606,
+    "timeDay": 593,
+    "timeWeek": 492,
+    "timeMonth": 493,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2025-06-23": 19,
       "2025-06-06": 19,
@@ -24,8 +24,7 @@
       "2024-09-24": 783,
       "2024-09-23": 467,
       "2024-09-12": 560,
-      "2024-09-11": 929,
-      "2024-08-03": 22
+      "2024-09-11": 929
     }
   }
 ]
